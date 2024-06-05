@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi there! 👋 I'm Brayan Quiroz
 
-<!--
-**brayanquirozurrutia/brayanquirozurrutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a certified Systems Analyst currently pursuing a degree in Computer Engineering. My passion for technology and software development drives me to continuously learn and adapt to new technologies and languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies I Have Worked On
+
+- **Languages:**
+  - 🐘 **PHP**
+  - 🐍 **Python**
+  - 📜 **JavaScript**
+  - 🌐 **TypeScript**
+  - ☕ **Java**
+  - 🖥️ **Visual Basic**
+- **Frameworks:**
+  - ⚡ **Symfony**
+  - 🌐 **Django**
+  - ⚛️ **React**
+  - 🅰️ **Angular**
+  - ⚛️ **React Native**
+- **Other Technologies:**
+  - 🖌️ **HTML**
+  - 🎨 **CSS**
+  - 🗄️ **SQL**
+  - 🌐 **REST APIs**
+  - 🐳 **Docker**
+  - 🐙 **Git**
+  - 📂 **NoSQL**
+  - 🐇 **RabbitMQ**
+  - ⚙️ **Celery**
+  - 💻 **jQuery**
+  - 🕸️ **GraphQL**
+  - 🎨 **Tailwind CSS**
+  - 📱 **Android Studio**
+  - 🅱️ **Bootstrap**
+
+## Current Projects
+
+### Web Development with React and Django
+
+I am currently working on a web development project that leverages the power of React for the front end and Django for the back end. This project aims to create a robust and user-friendly web application.
+
+## Professional Experience
+
+I have experience working with PHP Symfony and Django, which has equipped me with a deep understanding of web development principles and best practices. My adaptability allows me to quickly learn and master new tools and technologies as needed.
+
+## Contact Me
+
+Feel free to reach out if you have any questions, opportunities, or just want to connect!
+
+- 📧 **Email:** brayanquirozurrutia@outlook.com (mailto:brayanquirozurrutia@outlook.com)
+
+## Let's Connect!
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's create something amazing together!
