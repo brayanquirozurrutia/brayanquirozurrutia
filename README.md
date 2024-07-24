@@ -34,6 +34,8 @@ I am a certified Systems Analyst currently pursuing a degree in Computer Enginee
   - 🎨 **Tailwind CSS**
   - 📱 **Android Studio**
   - 🅱️ **Bootstrap**
+  - ☁️ **Cloud**
+  - 🛠️ **Redis**
 
 ## Current Projects
 
