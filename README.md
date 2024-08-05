@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Brayan Quiroz
 
+![Confetti](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 ## About Me
 
 I am a certified Systems Analyst currently pursuing a degree in Computer Engineering. My passion for technology and software development drives me to continuously learn and adapt to new technologies and languages.
@@ -53,8 +55,10 @@ I have experience working with PHP Symfony and Django, which has equipped me wit
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect!
 
-- 📧 **Email:** brayanquirozurrutia@outlook.com (mailto:brayanquirozurrutia@outlook.com)
+- 📧 **Email:** [brayanquirozurrutia@outlook.com](mailto:brayanquirozurrutia@outlook.com)
 
 ## Let's Connect!
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's create something amazing together!
+
+![Let's Connect](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
