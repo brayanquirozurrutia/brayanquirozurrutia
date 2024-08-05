@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Brayan Quiroz
 
-![Confetti](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 ## About Me
 
 I am a certified Systems Analyst currently pursuing a degree in Computer Engineering. My passion for technology and software development drives me to continuously learn and adapt to new technologies and languages.
@@ -11,7 +9,7 @@ Check out my latest personal project: [TecitoStore](https://tecitostore.com) �
 ## Skills and Technologies I Have Worked On
 
 - **Languages:**
-  - 🐘 **PHP**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   - 🐍 **Python**
   - 📜 **JavaScript**
   - 🌐 **TypeScript**
