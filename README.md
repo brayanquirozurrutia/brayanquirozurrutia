@@ -9,7 +9,7 @@ Check out my latest personal project: [TecitoStore](https://tecitostore.com) �
 ## Skills and Technologies I Have Worked On
 
 - **Languages:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  - 🐘 **PHP**
   - 🐍 **Python**
   - 📜 **JavaScript**
   - 🌐 **TypeScript**
@@ -58,5 +58,3 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 ## Let's Connect!
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's create something amazing together!
-
-![Let's Connect](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
