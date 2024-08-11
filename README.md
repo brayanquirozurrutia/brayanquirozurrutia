@@ -83,3 +83,9 @@ I am always open to discussing new projects, creative ideas, or opportunities to
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/brayanquirozurrutia/brayanquirozurrutia/output/snake.svg" alt="Snake animation" />
+
+###
