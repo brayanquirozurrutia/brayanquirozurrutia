@@ -34,6 +34,9 @@ Check out my latest personal project: [TecitoStore](https://tecitostore.com) ðŸŒ
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
     <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
     <img src="https://skillicons.dev/icons?i=rest" height="40" alt="REST APIs logo" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
