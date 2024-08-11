@@ -9,15 +9,14 @@ Check out my latest personal project: [TecitoStore](https://tecitostore.com) �
 ## Skills and Technologies I Have Worked On
 
 - **Languages:**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-</div>
-  - 🐘 **PHP**
-  - 🐍 **Python**
-  - 📜 **JavaScript**
-  - 🌐 **TypeScript**
-  - ☕ **Java**
-  - 🖥️ **Visual Basic**
+  <div>
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP logo" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Basic logo" />
+  </div>
 - **Frameworks:**
   - ⚡ **Symfony**
   - 🌐 **Django**
