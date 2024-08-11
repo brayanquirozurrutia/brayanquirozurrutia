@@ -40,13 +40,11 @@ Check out my latest personal project: [TecitoStore](https://tecitostore.com) ðŸŒ
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
     <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ logo" />
-    <img src="https://skillicons.dev/icons?i=celery" height="40" alt="Celery logo" />
     <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery logo" />
     <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
     <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
-    <img src="https://skillicons.dev/icons?i=cloud" height="40" alt="Cloud logo" />
     <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis logo" />
   </div>
 
