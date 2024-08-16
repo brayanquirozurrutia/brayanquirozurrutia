@@ -85,3 +85,6 @@ I am always open to discussing new projects, creative ideas, or opportunities to
 </div>
 
 ![Snake animation](https://github.com/brayanquirozurrutia/brayanquirozurrutia/output/github-contribution-grid-snake.svg)
+
+
+
