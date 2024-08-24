@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular logo" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40" alt="React Native logo" />
 </div>
   
 ### **Other Technologies:**
@@ -83,8 +82,3 @@ I am always open to discussing new projects, creative ideas, or opportunities to
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
-
-![Snake animation](https://github.com/brayanquirozurrutia/brayanquirozurrutia/output/github-contribution-grid-snake.svg)
-
-
-
