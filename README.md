@@ -8,6 +8,16 @@
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=brayanquirozurrutia&theme=dark&hide_border=true)
+
+---
+
 ## 🛠️ Skills and Technologies I Have Worked On
 
 ### **Languages:**
