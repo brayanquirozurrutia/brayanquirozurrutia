@@ -10,11 +10,14 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanquirozurrutia&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=brayanquirozurrutia&theme=dark&hide_border=true)
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayanquirozurrutia&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="80%" />
+</div>
 
 ---
 
