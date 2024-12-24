@@ -2,7 +2,9 @@
 
 ## About Me
 
-🎓 I am a certified Systems Analyst currently pursuing a degree in Computer Engineering. My passion for technology and software development drives me to continuously learn and adapt to new technologies and languages.
+🎓 I am a Civil Mining Engineer and Computer Engineer.  
+🚀 With a solid background in **Full Stack Development**, I specialize in building scalable and interactive web and mobile platforms using cutting-edge technologies.  
+🌟 Passionate about leveraging technology to solve real-world problems and deliver optimized, user-centric solutions.
 
 ---
 
