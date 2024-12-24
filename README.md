@@ -36,7 +36,7 @@
 ### **Backend Development:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,php,synfony,express" height="40" alt="Backend logos" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,php,express" height="40" alt="Backend logos" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
 </div>
 
@@ -56,9 +56,21 @@
 
 ## 📚 Current Projects
 
-### **Web Development with React and Django**
+### 1. **Online Store (Fullstack):**
 
-🌐 I am currently working on a web development project that leverages the power of React for the front end and Django for the back end. This project aims to create a robust and user-friendly web application.
+- Built with **React (Vite, TypeScript)** and **Django**.
+- Deployed on **Ubuntu with Docker**, integrated with **Nginx**, **RabbitMQ**, and **Celery**.
+- Designed for scalability to handle high traffic efficiently.
+
+### 2. **Identity Validation App (React Native):**
+
+- Developed a **mobile app** with **AI-based identity validation**.
+- Features document scanning and facial recognition with a focus on security.
+
+### 3. **Smart Supermarket App:**
+
+- Created a **React Native app** that scans product labels and suggests ingredient-based alternatives.
+- Enhanced user experience with personalized recommendations.
 
 ---
 
@@ -68,11 +80,17 @@ I have hands-on experience working with **PHP Symfony** and **Django**, which ha
 
 ---
 
-## 📫 Contact Me
+## 💼 Professional Experience
 
-Feel free to reach out if you have any questions, opportunities, or just want to connect!
+### Full Stack Developer, **Entrekids**  
+*04/2024 – Present*  
+- Developed web and mobile apps using **React**, **React Native**, and **TypeScript**.
+- Enhanced backend performance with **PHP (Symfony)** for scalability.
 
-- 📧 **Email:** [brayanquirozurrutia@outlook.com](mailto:brayanquirozurrutia@outlook.com)
+### Backend Developer, **MeyDey**  
+*11/2023 – 04/2024*  
+- Designed scalable architectures with **Django** and **Python**.
+- Integrated APIs for dynamic frontends.
 
 ---
 
