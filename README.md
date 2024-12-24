@@ -24,36 +24,32 @@
 ### **Languages:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,python,java,javascript,java,kotlin" height="40" alt="Languages logos" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,java,javascript,php,kotlin" height="40" alt="Languages logos" />
 </div>
 
-### **Frameworks:**
+### **Frontend Development:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="Symfony logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular logo" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwindcss,bootstrap" height="40" alt="Frontend logos" />
+</div>
+
+### **Backend Development:**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,php" height="40" alt="Backend logos" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
+</div>
+
+### **Databases:**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="40" alt="Database logos" />
 </div>
   
-### **Other Technologies:**
+### **Other Tools:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ logo" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery logo" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis logo" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,nginx" height="40" alt="Tools logos" />
 </div>
 
 ---
