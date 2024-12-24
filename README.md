@@ -76,12 +76,6 @@
 
 ## 💼 Professional Experience
 
-I have hands-on experience working with **PHP Symfony** and **Django**, which has equipped me with a deep understanding of web development principles and best practices. My adaptability allows me to quickly learn and master new tools and technologies as needed.
-
----
-
-## 💼 Professional Experience
-
 ### Full Stack Developer, **Entrekids**  
 *04/2024 – Present*  
 - Developed web and mobile apps using **React**, **React Native**, and **TypeScript**.
