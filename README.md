@@ -36,7 +36,7 @@
 ### **Backend Development:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,php" height="40" alt="Backend logos" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,php,synfony,express" height="40" alt="Backend logos" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
 </div>
 
