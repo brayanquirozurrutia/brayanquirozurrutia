@@ -24,11 +24,7 @@
 ### **Languages:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP logo" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,java,javascript" height="40" alt="Languages logos" />
 </div>
 
 ### **Frameworks:**
