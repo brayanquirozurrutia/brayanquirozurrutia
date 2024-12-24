@@ -24,7 +24,7 @@
 ### **Languages:**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,python,java,javascript" height="40" alt="Languages logos" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,java,javascript,java,kotlin" height="40" alt="Languages logos" />
 </div>
 
 ### **Frameworks:**
