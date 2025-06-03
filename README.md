@@ -2,8 +2,8 @@
 
 ## About Me
 
-🎓 I am a Civil Mining Engineer and Computer Engineer.  
-🚀 With a solid background in **Full Stack Development**, I specialize in building scalable and interactive web and mobile platforms using cutting-edge technologies.  
+🎓 I am a Civil Mining Engineer and Computer Engineer.
+🚀 With a solid background in **Full Stack Development**, I specialize in building scalable and interactive web and mobile platforms using cutting-edge technologies.
 🌟 Passionate about leveraging technology to solve real-world problems and deliver optimized, user-centric solutions.
 
 ---
@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="40" alt="Database logos" />
 </div>
-  
+
 ### **Other Tools:**
 
 <div align="center">
@@ -76,13 +76,13 @@
 
 ## 💼 Professional Experience
 
-### Full Stack Developer, **Entrekids**  
-*04/2024 – Present*  
+### Full Stack Developer, **Entrekids**
+*04/2024 – Present*
 - Developed web and mobile apps using **React**, **React Native**, and **TypeScript**.
 - Enhanced backend performance with **PHP (Symfony)** for scalability.
 
-### Backend Developer, **MeyDey**  
-*11/2023 – 04/2024*  
+### Backend Developer, **MeyDey**
+*11/2023 – 04/2024*
 - Designed scalable architectures with **Django** and **Python**.
 - Integrated APIs for dynamic frontends.
 
