@@ -67,6 +67,15 @@ Una selección de los productos y proyectos de **Rufos Technology**:
 
 ## Entorno técnico
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure" width="32" height="32"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="32" height="32"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="32" height="32"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/react/react-original.svg" alt="React" title="React" width="32" height="32"> &nbsp;
+  <img src="https://raw.githubusercontent.com/dotnet/brand/91845f6ddf2123b3bb1bfd1b6a386d9ce02b43aa/logo/dotnet-logo.svg" alt=".NET" title=".NET" width="32" height="32">
+</p>
+
 Selecciono las tecnologías según el problema, las integraciones y la capacidad de operación del equipo.
 
 | Área | Tecnologías y herramientas |
